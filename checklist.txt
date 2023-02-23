@@ -1,0 +1,14 @@
+Checklist "..."
+
+Tested by:
+Date:
+Product name:
+Device:
+Environment:
+
+ID        Title      Status    Comment
+1         ....       Passed
+2         ....       Failed
+3         ....       Blocked
+4         ....       Skipped
+5         ....       Not run 
